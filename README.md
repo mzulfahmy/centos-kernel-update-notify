@@ -1,0 +1,1 @@
+# centos-kernel-update-notify
